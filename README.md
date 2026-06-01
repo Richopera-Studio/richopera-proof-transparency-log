@@ -4,7 +4,7 @@
 
 在Gitee，也有同样的日志镜像，可以视为本仓库的国内镜像，用户或审计人员可以通过两个仓库进行交叉对比。
 
-[点击访问 Gitee 镜像](https://gitee.com/richopera/richopera-proof-transparency-log)
+[点击访问国内Gitee镜像](https://gitee.com/richopera/richopera-proof-transparency-log)
 
 Richopera Proof Service 会按 UTC 小时生成公开透明日志，记录该小时内签发过的存证证书编号、证书 JSON 哈希、签发时间、Merkle Root，以及可用时的 OpenTimestamps receipt。
 
@@ -169,6 +169,7 @@ OpenTimestamps receipt
   ↓
 GitHub 公开镜像
 ```
+
 ## 许可证
 
 本仓库中的公开透明日志数据采用 CC0 1.0 Universal 发布。
