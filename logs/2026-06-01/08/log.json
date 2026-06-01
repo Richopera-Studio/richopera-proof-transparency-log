@@ -1,0 +1,17 @@
+{
+  "logVersion": "1",
+  "service": "Story Studio Proof Service",
+  "periodStart": "2026-06-01T08:00:00.000Z",
+  "periodEnd": "2026-06-01T09:00:00.000Z",
+  "certificateCount": 1,
+  "hashAlgorithm": "sha256",
+  "merkleRoot": "sha256:b875d856eaee4713b32be9be973259423b5dd64e8c204da7a7927b4c4cd9cd68",
+  "entries": [
+    {
+      "certificateId": "SSP-20260601-QJQ65NQZ4RRWPDES9X0TT8QHKR",
+      "issuedAt": "2026-06-01T08:15:47.380Z",
+      "certificateJsonHash": "sha256:aa34f2cb2ffe9247746420e348a930fbbc5bcad1796ab8a853115c00838929b2",
+      "leafIndex": 0
+    }
+  ]
+}
