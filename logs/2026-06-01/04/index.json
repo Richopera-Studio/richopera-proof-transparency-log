@@ -1,0 +1,26 @@
+{
+  "mirrorVersion": "1",
+  "service": "Story Studio Proof Service",
+  "periodStart": "2026-06-01T04:00:00.000Z",
+  "periodEnd": "2026-06-01T05:00:00.000Z",
+  "certificateCount": 0,
+  "merkleRoot": "sha256:2fa0ae992ae7a3922d15209b32e1ca948d373b9d3be4c9a06ab0a1727857192e",
+  "logJsonHash": "sha256:aa256b486f5852e46895c40177762e37fb87b61ddf7a915a86ea8f42e821a47a",
+  "ots": {
+    "file": "log.ots",
+    "receiptHash": "sha256:c5e802ac994cde2cc4d3ffe46cea900d37a6758cbcf665465b3349c23b7ac159",
+    "upgraded": false,
+    "btcBlockHeight": null,
+    "btcBlockTime": null
+  },
+  "source": {
+    "detailUrl": "https://proof.richopera.cn/logs/2026-06-01/04",
+    "logJsonUrl": "https://proof.richopera.cn/api/v1/logs/2026-06-01/04/log.json",
+    "otsReceiptUrl": "https://proof.richopera.cn/api/v1/logs/2026-06-01/04/receipt.ots"
+  },
+  "files": [
+    "log.json",
+    "log.ots",
+    "index.json"
+  ]
+}
