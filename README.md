@@ -2,6 +2,10 @@
 
 本仓库是 [proof.richopera.cn](https://proof.richopera.cn) 的公开透明日志 GitHub 镜像仓库。
 
+在Gitee，也有同样的日志镜像，可以视为本仓库的国内镜像，用户或审计人员可以通过两个仓库进行交叉对比。
+
+[点击访问 Gitee 镜像](https://gitee.com/richopera/richopera-proof-transparency-log)
+
 Richopera Proof Service 会按 UTC 小时生成公开透明日志，记录该小时内签发过的存证证书编号、证书 JSON 哈希、签发时间、Merkle Root，以及可用时的 OpenTimestamps receipt。
 
 这个仓库的作用，是为网站公开日志提供一个第三方公开备份位置。
