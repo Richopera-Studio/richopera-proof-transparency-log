@@ -1,17 +1,10 @@
 {
   "logVersion": "1",
   "service": "Richopera's Proof Service",
-  "periodStart": "2026-06-01T18:00:00.000Z",
-  "periodEnd": "2026-06-01T19:00:00.000Z",
-  "certificateCount": 1,
+  "periodStart": "2026-06-02T02:00:00.000Z",
+  "periodEnd": "2026-06-02T03:00:00.000Z",
+  "certificateCount": 0,
   "hashAlgorithm": "sha256",
-  "merkleRoot": "sha256:82a5cdecd500868b545b7ce7ef35883bc49c27a08c10ef2d3d1eb1214d25179d",
-  "entries": [
-    {
-      "certificateId": "SSP-20260601-B359TC5Q999P5PNE7VT7BR3RGW",
-      "issuedAt": "2026-06-01T18:30:40.324Z",
-      "certificateJsonHash": "sha256:7ca6e033f06c7b0a1171a733791e4f9c9fd76b4b470f2fa38b18b48abb47d889",
-      "leafIndex": 0
-    }
-  ]
+  "merkleRoot": "sha256:2fa0ae992ae7a3922d15209b32e1ca948d373b9d3be4c9a06ab0a1727857192e",
+  "entries": []
 }
