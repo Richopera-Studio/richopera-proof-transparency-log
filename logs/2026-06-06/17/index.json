@@ -1,0 +1,26 @@
+{
+  "mirrorVersion": "1",
+  "service": "Richopera's Proof Service",
+  "periodStart": "2026-06-06T17:00:00.000Z",
+  "periodEnd": "2026-06-06T18:00:00.000Z",
+  "certificateCount": 1,
+  "merkleRoot": "sha256:4ca663a581847b11b9fb7f217734fea5b7db7dd43e82da578bb6af2443e06f4f",
+  "logJsonHash": "sha256:f1449ef3f385466e31a27def87a6790dff3781253c1e7b3968f4ea57c11ed2dd",
+  "ots": {
+    "file": "log.ots",
+    "receiptHash": "sha256:a1684ec99ad403c806df16fac6ce0aae218d38b81c6bddb58b0bd1db03a5211c",
+    "upgraded": false,
+    "btcBlockHeight": null,
+    "btcBlockTime": null
+  },
+  "source": {
+    "detailUrl": "https://proof.richopera.cn/logs/2026-06-06/17",
+    "logJsonUrl": "https://proof.richopera.cn/api/v1/logs/2026-06-06/17/log.json",
+    "otsReceiptUrl": "https://proof.richopera.cn/api/v1/logs/2026-06-06/17/receipt.ots"
+  },
+  "files": [
+    "log.json",
+    "log.ots",
+    "index.json"
+  ]
+}
