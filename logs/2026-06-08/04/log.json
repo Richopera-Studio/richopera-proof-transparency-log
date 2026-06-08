@@ -1,0 +1,35 @@
+{
+  "logVersion": "1",
+  "service": "Richopera's Proof Service",
+  "periodStart": "2026-06-08T04:00:00.000Z",
+  "periodEnd": "2026-06-08T05:00:00.000Z",
+  "certificateCount": 4,
+  "hashAlgorithm": "sha256",
+  "merkleRoot": "sha256:93380aa6bc5c7bc0a756b8a3212241b0ba890f4091381e9263f3b3cb9e06ef53",
+  "entries": [
+    {
+      "certificateId": "SSP-20260608-GSYCXQA9V42ZRAM8BFZWHZYFK8",
+      "issuedAt": "2026-06-08T04:35:12.470Z",
+      "certificateJsonHash": "sha256:cfdfb7f0b640b13054a7f00bddaf99b731b9d63b976030ad7dc1fbbdedd09e18",
+      "leafIndex": 0
+    },
+    {
+      "certificateId": "SSP-20260608-VFTCX1CB0PYQW9M1GZ13WQ6NQR",
+      "issuedAt": "2026-06-08T04:35:12.476Z",
+      "certificateJsonHash": "sha256:788795d8d0251c46facccec19854bd13e7e8bb564b3e60be1c2fdd6d785a71b0",
+      "leafIndex": 1
+    },
+    {
+      "certificateId": "SSP-20260608-QXMY30XCXDMNN7MMTXMZHJA1B0",
+      "issuedAt": "2026-06-08T04:35:12.477Z",
+      "certificateJsonHash": "sha256:2ea7c571318a2974bec818f1945a5760b4bfa80e71e279da2445fc588bcc1477",
+      "leafIndex": 2
+    },
+    {
+      "certificateId": "SSP-20260608-2NS4K76RJ3GZZGYE01R81FR470",
+      "issuedAt": "2026-06-08T04:35:12.480Z",
+      "certificateJsonHash": "sha256:eca003f6649617d236f2ddeca06519a1969100a5523d67091fcf485bc8315c0a",
+      "leafIndex": 3
+    }
+  ]
+}
