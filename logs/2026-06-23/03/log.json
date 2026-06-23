@@ -1,0 +1,10 @@
+{
+  "logVersion": "1",
+  "service": "Richopera's Proof Service",
+  "periodStart": "2026-06-23T03:00:00.000Z",
+  "periodEnd": "2026-06-23T04:00:00.000Z",
+  "certificateCount": 0,
+  "hashAlgorithm": "sha256",
+  "merkleRoot": "sha256:2fa0ae992ae7a3922d15209b32e1ca948d373b9d3be4c9a06ab0a1727857192e",
+  "entries": []
+}
