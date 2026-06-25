@@ -11,7 +11,7 @@
     "receiptHash": "sha256:1831a6c8c01e578ac4fa055c204ea98c3790fc7a04ddbdbb7c7db05512ae4b18",
     "upgraded": true,
     "btcBlockHeight": 955325,
-    "btcBlockTime": null
+    "btcBlockTime": "2026-06-25T11:25:04.000Z"
   },
   "source": {
     "detailUrl": "https://proof.richopera.cn/logs/2026-06-25/10",
