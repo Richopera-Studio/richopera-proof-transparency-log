@@ -8,10 +8,10 @@
   "logJsonHash": "sha256:b0cdf50020a211b0e1dc521c5197be6681451ffee0b742704c0e9fdb21d94a58",
   "ots": {
     "file": "log.ots",
-    "receiptHash": "sha256:91bf46ce2c352ee187ccd891294f7c3aa461000ae731abce01850a214f7efff7",
-    "upgraded": false,
-    "btcBlockHeight": null,
-    "btcBlockTime": null
+    "receiptHash": "sha256:9d2cc7562b421d398a16f2ca3d90bd41c08f9bfa59f2b0cd3c6001acc7391517",
+    "upgraded": true,
+    "btcBlockHeight": 958447,
+    "btcBlockTime": "2026-07-17T19:47:19.000Z"
   },
   "source": {
     "detailUrl": "https://proof.richopera.cn/logs/2026-07-17/18",
