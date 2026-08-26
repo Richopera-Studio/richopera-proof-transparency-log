@@ -8,7 +8,7 @@
   "logJsonHash": "sha256:0d23eb0986c63899a75af462ceae4458e32d98509d00edb09006cec605ed8ce1",
   "ots": {
     "file": "log.ots",
-    "receiptHash": "sha256:df27db21966229ffcb7ae028364156e38bf82a576b9d1a8773423741804177a3",
+    "receiptHash": "sha256:d5fb8596ecec731f51089e6c77541715e9ff55cc1ab1597bc170dfcc4e09defe",
     "upgraded": false,
     "btcBlockHeight": null,
     "btcBlockTime": null
